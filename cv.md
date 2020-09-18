@@ -3,6 +3,7 @@
 ### My contacts:
 * **Email:** **gigorasd@gmail.com**
 * **Github:** [Ig0r0k](https://github.com/Ig0r0k)
+* **Discord:** Ig0r0k#1433
 
 ---
 
