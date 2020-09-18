@@ -5,7 +5,7 @@
 ### My contacts:
 * **Email:** **gigorasd@gmail.com**
 * **Github:** [Ig0r0k](https://github.com/Ig0r0k)
-* **Discord:** Ig0r0k#1433
+
 ---
 ### Purpose of my training:
 >I am interested in web development, and I want to learn how to develop on a high level, what I’m doing now while studying in RSS.
